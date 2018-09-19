@@ -12,7 +12,7 @@ public class Homework2Tests {
 		Homework2 hw2 = new Homework2("Hello, World!");
 		System.out.println("Pass 1");
 
-		if (hw2.upperase().equals("HELLO, WORLD!")) {
+		if (hw2.uppercase().equals("HELLO, WORLD!")) {
 			System.out.println("Pass 2");
 		} else {
 			System.out.println("Fail 2");

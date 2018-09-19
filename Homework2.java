@@ -22,7 +22,7 @@ public Homework2(String yes){
 	 * uppercase letters and return the result
 	 * Hint: Search the String class for 'uppercase'
 	 */
-public String upperase(){
+public String uppercase(){
 c = c.toUpperCase();
 	return c;
 }
